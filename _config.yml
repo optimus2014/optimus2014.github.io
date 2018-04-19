@@ -1,7 +1,7 @@
 # Site settings
 title: 个人博客
 SEOTitle: 闫儒的博客 | Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/post-bg-index.jpg
 email: ttt@163.com
 description: "Every failure is leading towards success."
 keyword: "kw1,kw2,kw3"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/optimus2014/optimus2014.github.io.git" # you co
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "欢迎来到我的小黑屋!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/post-bg-icon.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
