@@ -100,7 +100,7 @@ service-worker: true
 friends: [
     {
         title: "LOFTER",
-        href: "http://www.lofter.com/blog/optimus2014"
+        href: "http://optimus2014.lofter.com/"
     },{
         title: "500PX",
         href: "https://500px.com/foreveryjr"
